@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "it is a chat app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harshyd/Chat-App.git"
+  },
+  "author": "Harsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Harshyd/Chat-App/issues"
+  },
+  "homepage": "https://github.com/Harshyd/Chat-App#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
